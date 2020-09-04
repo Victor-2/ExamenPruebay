@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="40658" started-at="2020-09-04T02:16:03Z" finished-at="2020-09-04T02:16:44Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="40658" started-at="2020-09-04T02:16:03Z" finished-at="2020-09-04T02:16:44Z">
+      <class name="com.com470.seleniumMercuryApp.SeleniumMercuryAppApplicationNGTest">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.com470.seleniumMercuryApp.SeleniumMercuryAppApplicationNGTest@4439f31e]" name="setUpMethod" is-config="true" duration-ms="11313" started-at="2020-09-04T02:16:03Z" finished-at="2020-09-04T02:16:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="TestComplejos()[pri:0, instance:com.com470.seleniumMercuryApp.SeleniumMercuryAppApplicationNGTest@4439f31e]" name="TestComplejos" duration-ms="8673" started-at="2020-09-04T02:16:14Z" finished-at="2020-09-04T02:16:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestComplejos -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.com470.seleniumMercuryApp.SeleniumMercuryAppApplicationNGTest@4439f31e]" name="tearDownMethod" is-config="true" duration-ms="594" started-at="2020-09-04T02:16:23Z" finished-at="2020-09-04T02:16:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.com470.seleniumMercuryApp.SeleniumMercuryAppApplicationNGTest@4439f31e]" name="setUpMethod" is-config="true" duration-ms="10615" started-at="2020-09-04T02:16:24Z" finished-at="2020-09-04T02:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="TestSimple()[pri:0, instance:com.com470.seleniumMercuryApp.SeleniumMercuryAppApplicationNGTest@4439f31e]" name="TestSimple" duration-ms="8854" started-at="2020-09-04T02:16:34Z" finished-at="2020-09-04T02:16:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestSimple -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.com470.seleniumMercuryApp.SeleniumMercuryAppApplicationNGTest@4439f31e]" name="tearDownMethod" is-config="true" duration-ms="594" started-at="2020-09-04T02:16:43Z" finished-at="2020-09-04T02:16:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- com.com470.seleniumMercuryApp.SeleniumMercuryAppApplicationNGTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
